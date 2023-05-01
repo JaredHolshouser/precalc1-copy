@@ -121,13 +121,5 @@ I can manipulate expressions and solve equations
 by successively performing multiple algebraic steps.
             </description>
         </outcome>
-        <outcome>
-            <title>Synthesis of skills and techniques 2</title>
-            <slug>PSy2</slug>
-            <path>outcomes/PSy/PSy2</path>
-            <description>
-I can determine the domain of an algebraic function.
-            </description>
-        </outcome>
     </outcomes>
 </bank>
